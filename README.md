@@ -12,7 +12,7 @@
  </h1>
  
 ## 👨‍💻 About Me
-🔭 I’m am a Front-End Web Developer interested in all things on the web
+🔭 I am a Front-End Web Developer interested in all things on the web
 
 🤓 Currently learning how to code via The Odin Project and a Complete JavaScript Course on Udemy.
 
