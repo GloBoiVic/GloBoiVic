@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 🔭 I am a Front-End Web Developer interested in all things on the web
 
-🤓 Currently learning how to code via The Odin Project and a Complete JavaScript Course on Udemy.
+🤓 Currently learning React.js
 
 ⚡ In my spare time, I am at the gym working on my gains 💪 or reading a book 📖
 
