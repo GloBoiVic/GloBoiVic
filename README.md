@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 🔭 I am a Front-End Web Developer interested in all things on the web
 
-🤓 Currently learning React.js
+🤓 Currently learning React.js and Typescript
 
 ⚡ In my spare time, I am at the gym working on my gains 💪 or reading a book 📖
 
