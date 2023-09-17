@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 🔭 I am a Software Developer interested in all things tech. My goal is to make an impact in my community using technology
 
-🤓 Currently learning NodeJs and Express
+🤓 Currently learning MERN Stack with TypeScript
 
 ⚡ In my spare time, I am at the gym working on my gains 💪 or reading a book 📖
 
