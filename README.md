@@ -14,7 +14,7 @@
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
 ## 👨‍💻 About Me
-🔭 I am a Software Developer interested in all things tech. My goal is to make an impact in my community using technology
+🔭 Software Developer interested in all things tech. My goal is to make an impact in my community using technology
 
 🤓 Currently learning MERN Stack with TypeScript
 
