@@ -1,15 +1,15 @@
 <h1>
-  Hi, I'm Victor
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <div id="badges">
-    <a href="https://linkedin.com/in/victor-ikee">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://dev.to/developing-vic">
-      <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to Badge"/>
-    </a>
-  </div>
+  Hi, I'm Victor 👋🏾
  </h1>
+
+<div id="badges">
+  <a href="https://linkedin.com/in/victor-ikee">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/developing-vic">
+    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to Badge"/>
+  </a>
+</div>
  
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
