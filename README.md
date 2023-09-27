@@ -13,7 +13,7 @@
  
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
-## 👨‍💻 About Me
+## 👨🏾‍💻 About Me
 🔭 Software Developer interested in all things tech. My goal is to make an impact in my community using technology
 
 🤓 Currently learning MERN Stack with TypeScript
