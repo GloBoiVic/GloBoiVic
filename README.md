@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="https://linkedin.com/in/victor-ikee">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" target="_blank"/>
   </a>
   <a href="https://dev.to/developing-vic">
     <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to Badge" target="_blank"/>
