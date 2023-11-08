@@ -3,7 +3,7 @@
  </h1>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/victor-ikee">
+  <a href="https://linkedin.com/in/developing-vic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" target="_blank"/>
   </a>
 </div>
