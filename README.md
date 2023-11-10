@@ -13,7 +13,7 @@
 ## 👨🏾‍💻 About Me
 🔭 Software Developer interested in all things tech. My goal is to make an impact in my community using technology
 
-🤓 Currently learning MERN Stack with TypeScript
+🤓 Currently learning the fundamentals of computer science
 
 ⚡ In my spare time, I am at the gym working on my gains 💪 or reading a book 📖
 
