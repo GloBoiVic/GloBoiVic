@@ -11,7 +11,7 @@
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
 ## 👨🏾‍💻 About Me
-🔭 Software Developer interested in all things tech. My goal is to make an impact in my community using technology
+🔭 I am a UI engineer specializing in designing and building web applications. I am experienced  in building mobile responsive and UI friendly apps. 
 
 🤓 Currently learning the fundamentals of computer science
 
