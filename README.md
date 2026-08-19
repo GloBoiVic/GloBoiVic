@@ -11,9 +11,9 @@
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
 ## 👨🏾‍💻 About Me
-🔭 I am an agentic engineer interested in all things AI coding. 
+I am an agentic engineer interested in all things AI coding. 
 
-⚡ In my spare time, I am at the gym working on my gains 💪 or learning.
+In my spare time, I am at the gym working on my gains or learning.
 
 ## 💻 Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
