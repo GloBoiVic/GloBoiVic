@@ -13,8 +13,6 @@
 ## 👨🏾‍💻 About Me
 🔭 I am an agentic engineer interested in all things AI coding. 
 
-🤓 Currently learning the fundamentals of computer science
-
 ⚡ In my spare time, I am at the gym working on my gains 💪 or learning.
 
 ## 💻 Tech Stack
