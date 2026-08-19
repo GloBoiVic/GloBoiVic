@@ -11,11 +11,11 @@
  [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
  
 ## 👨🏾‍💻 About Me
-🔭 I am a UI Engineer specializing in designing and building web applications. I am experienced  in building mobile responsive and UI friendly apps. 
+🔭 I am an agentic engineer interested in all things AI coding. 
 
 🤓 Currently learning the fundamentals of computer science
 
-⚡ In my spare time, I am at the gym working on my gains 💪 or reading a book 📖
+⚡ In my spare time, I am at the gym working on my gains 💪 or learning.
 
 ## 💻 Tech Stack
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -29,11 +29,6 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🔥 My Stats
