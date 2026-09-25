@@ -16,7 +16,7 @@
 ## 👨🏾‍💻 About Me
 I'm an AI agent engineer. I build workflows and tooling that let AI coding agents work reliably on real codebases, and I use that same discipline to build my own products.
 
-Unprofitable forex and crypto trader turned software engineer — these days the bots still lose money, but at least I wrote the bots.
+Unprofitable forex and crypto trader turned software engineer. One day, the bot will make money.
 
 ## 🚀 What I'm Building
 - **[SoloFlow](https://github.com/GloBoiVic/soloflow)** — a single-model engineering workflow for AI coding agents: a long-lived lead, fresh role-based worker contexts, evidence-based validation, no heterogeneous agent fleet.
