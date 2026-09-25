@@ -17,7 +17,6 @@
 Unprofitable forex and crypto trader turned AI agent engineer. I'm building Atlas, a deterministic algorithmic trading platform, and documenting what it actually takes to build and ship software with AI coding agents.
 
 ## 🚀 What I'm Building
-- **[SoloFlow](https://github.com/GloBoiVic/soloflow)** — a single-model engineering workflow for AI coding agents: a long-lived lead, fresh role-based worker contexts, evidence-based validation, no heterogeneous agent fleet.
 - **Atlas** — a trader-owned platform for taking a strategy from idea to PAPER to LIVE, with deterministic experiments and full auditability. Currently closed development.
 - **[GrantFlow](https://grant-flow-sand.vercel.app)** — a grant portfolio and grant-work management app for nonprofit grant professionals.
 
