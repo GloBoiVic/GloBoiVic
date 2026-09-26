@@ -14,7 +14,7 @@
 [![](https://visitcount.itsvg.in/api?id=GloBoiVic&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 👨🏾‍💻 About Me
-Unprofitable forex and crypto trader turned AI agent engineer. I'm building Atlas, a deterministic algorithmic trading platform, and documenting what it actually takes to build and ship software with AI coding agents.
+I'm a self-taught developer in Milwaukee. These days I build most of my software with AI coding agents.
 
 ## 🚀 What I'm Building
 - **Atlas** — a trader-owned platform for taking a strategy from idea to PAPER to LIVE, with deterministic experiments and full auditability. Currently closed development.
